@@ -1,0 +1,11 @@
+numpy
+re
+pandas
+seaborn
+matplotlib
+BeautifulSoup
+fuzzywuzzy
+nltk
+sklearn
+pickle
+streamlit
